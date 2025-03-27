@@ -1,0 +1,11 @@
+#pragma once
+void task11();
+void task12();
+void task13();
+void task14();
+void task15();
+void task16();
+void task17();
+void task18();
+void task19();
+void task20();

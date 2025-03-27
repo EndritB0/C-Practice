@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-
+#include "Headers/Tutorial 1-10.h"
 
 namespace first
 {
@@ -115,12 +115,4 @@ void pythagoras()
 
     c = sqrt((pow(a, 2) + pow(b, 2)));
     std::cout << "Side C length is: " << c << std::endl;
-}
-
-
-int main()
-{
-    tutorial();
-    pythagoras();
-    return 0;
 }
